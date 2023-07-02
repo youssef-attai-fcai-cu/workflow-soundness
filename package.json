@@ -1,0 +1,23 @@
+{
+  "name": "workflow-soundness",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youssef-attai/workflow-soundness.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/youssef-attai/workflow-soundness/issues"
+  },
+  "homepage": "https://github.com/youssef-attai/workflow-soundness#readme",
+  "devDependencies": {
+    "eslint": "^8.41.0"
+  }
+}
